@@ -1,0 +1,34 @@
+﻿^ContentPage{
+    background-color: black;
+}
+Button {
+    font-size: 34;
+    width: 60;
+    height: 60;
+    border-radius: 30;
+    background-color: #1F1E1E;
+    color: white;
+    margin: 5;
+}
+
+    Button#BotonC {
+        background-color: #1F1E1E;
+        color: white;
+    }
+
+    Button#BotonCA {
+        background-color: darkviolet;
+        color: green;
+    }
+
+    Button#BotonIgual {
+        background-color: darkviolet;
+        color: white;
+    }
+
+Label {
+    font-size: 48;
+    text-align: end;
+    margin-bottom: 20;
+    color: orange;
+}
